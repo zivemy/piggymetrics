@@ -3,5 +3,5 @@ spring:
     nacos:
       discovery:
         server-addr: http://110.42.202.164:8848
-        namespace:
+        namespace: f6370e63-18e4-4680-b46e-c0378e46308d
 
